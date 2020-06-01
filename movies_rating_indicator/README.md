@@ -8,14 +8,14 @@ you have a dataset of over 5000 films to mine for insights. Your producers ask y
 and present a report detailing your findings, along with recommendations on how to revamp the studio’s strategy.
 
 ### Data
-The dataset is data/movies.csv
+The dataset is ./data/movies.csv
 
 #### Data Dictionary (selected columns)
-num_critic_reviews - number of movie reviews written by critics
-num_user_reviews - number of movie reviews written by IMDB users
-num_users_voted - number of IMDB users that rated the film
-duration - the length of the film in minutes
-actor_n_facebook_likes - the number of likes on the actor’s Facebook page (we can assume this was measured before the movie was released)
-gross - the film’s gross revenue
-movie_score - the film’s rating on a 1-10 scale
+num_critic_reviews - number of movie reviews written by critics. <br/>
+num_user_reviews - number of movie reviews written by IMDB users<br/>
+num_users_voted - number of IMDB users that rated the film<br/>
+duration - the length of the film in minutes<br/>
+actor_n_facebook_likes - the number of likes on the actor’s Facebook page (we can assume this was measured before the movie was released)<br/>
+gross - the film’s gross revenue<br/>
+movie_score - the film’s rating on a 1-10 scale<br/>
 
